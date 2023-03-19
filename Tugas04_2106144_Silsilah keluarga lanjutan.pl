@@ -88,28 +88,28 @@ Y = jack ;
 X = susan,
 Y = john.
 
-5. siapa kakek1 peter dan amy?
+5. siapa kakek1 peter dan mary?
 ?- kakek1(D,M).
 D = david,
 M = peter ;
 D = david,
 M = mary ;
 
-6. siapa nenek1 peter dan amy?
+6. siapa nenek1 peter dan mary?
 ?- nenek1(A,M).
 A = amy,
 M = peter ;
 A = amy,
 M = mary ;
 
-7. siapa kakek2 peter dan amy?
+7. siapa kakek2 peter dan mary?
 ?- kakek2(J,M).
 J = jack,
 M = peter ;
 J = jack,
 M = mary ;
 
-8. siapa nenek2 peter dan amy?
+8. siapa nenek2 peter dan mary?
 ?- nenek2(K,M).
 K = karen,
 M = peter ;
